@@ -1,4 +1,5 @@
 {
+
   "__resolveType": "website/pages/Page.tsx",
   "sections": [
     {
@@ -17,4 +18,5 @@
   "seo": {
     "__resolveType": "website/sections/Seo/SeoV2.tsx"
   }
+
 }

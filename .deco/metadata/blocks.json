@@ -101,7 +101,7 @@
   },
   "/.deco/blocks/pages-category-7493d4326022.json": {
     "name": "Category",
-    "path": "/s",
+    "path": "/category",
     "blockType": "pages",
     "__resolveType": "website/pages/Page.tsx"
   },
@@ -180,5 +180,49 @@
   "/.deco/blocks/Preview%20%2Fsections%2FImages%2FCarousel.tsx.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/Images/Carousel.tsx"
+  },
+  "/.deco/blocks/pages-Sign%2520Up-212353.json": {
+    "name": "Sign Up",
+    "path": "/signup",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FComponent.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Component.tsx"
+  },
+  "/.deco/blocks/Preview%20site%2Fsections%2FLogin%2FLogin.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Login/Login.tsx"
+  },
+  "/.deco/blocks/pages-Log%2520In-996561.json": {
+    "name": "Log In",
+    "path": "/login",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FLogin%2FLogin.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Login/Login.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FLogin.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Login.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2Fplp.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/plp.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FAuthorsCart.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/AuthorsCart.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FCategory%2FCategoryGrid.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Category/CategoryGrid.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FRegister%2FRegister.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Register/Register.tsx"
   }
 }
