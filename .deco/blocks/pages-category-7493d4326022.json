@@ -1,6 +1,6 @@
 {
   "name": "Category",
-  "path": "/s",
+  "path": "/category",
   "default": {
     "possiblePaths": []
   },

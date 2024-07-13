@@ -2,46 +2,78 @@
   "name": "Home",
   "sections": [
     {
-      "__resolveType": "Header"
+      "__resolveType": "site/sections/Header/Header.tsx",
+      "alerts": [
+        "<p>Use Code \"<strong>MANGA20</strong>\" <strong>&amp;</strong></p><p><span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\">Get Flat 20% Of On Your First Purchase</span></p>"
+      ],
+      "navItems": {
+        "__resolveType": "navbar"
+      },
+      "searchbar": {
+        "placeholder": "What are you looking for?",
+        "loader": {
+          "data": null,
+          "__resolveType": "resolved"
+        }
+      },
+      "logo": {
+        "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/ed9f7e80-86a8-4b72-9809-2e4e2e5f0e53",
+        "alt": "Deco Storefront",
+        "width": 160,
+        "height": 40
+      },
+      "variant": "initial"
     },
     {
       "__resolveType": "site/sections/Images/Carousel.tsx",
       "images": [
         {
-          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/5b022a01-ba88-46fe-86ae-93ae644605b7",
-          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/88b2ad41-be6d-4640-b9fe-c58942362f0f",
-          "alt": "Shoes",
+          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11645/154e7b4f-4810-4106-986a-cf0c94b8a529",
+          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11645/78e647bd-9198-41a9-91c4-4a662812a215",
+          "alt": "Boruto",
           "action": {
-            "title": "Skate into Adventure",
-            "subTitle": "Top-quality roller skate shoes for all levels. ",
             "href": "#",
-            "label": "Grab Yours Now!"
+            "title": "Boruto: Naruto Next Generations",
+            "subTitle": "The chaos of youth will test the greatest of ninja!",
+            "label": "Buy Now!"
           }
         },
         {
-          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/d26304f4-355b-48d0-b649-e24b9cbf0ded",
-          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/47a4d85a-1150-4e5d-abc2-5c642445ff12",
-          "alt": "Men",
+          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11645/c966ae8f-78ba-4087-beb2-e1474aecfefd",
+          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11645/78e647bd-9198-41a9-91c4-4a662812a215",
           "action": {
-            "title": "Discover Fresh Looks",
-            "subTitle": "Modern men's clothing and accessories.",
             "href": "#",
-            "label": "Shop the Collection"
-          }
-        },
-        {
-          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/1226ef79-c7e0-403c-b716-b6b9af3f2936",
-          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/f7ea4cbe-7498-4e64-9205-c741753edfcc",
-          "action": {
-            "label": "Shop Now!",
-            "href": "#",
-            "title": "Embrace New Trends",
-            "subTitle": "Stylish clothes and accessories."
+            "subTitle": "Midoriya inherits the superpower of the world’s greatest hero, but greatness won’t come easy.",
+            "label": "Buy Now!",
+            "title": "My Hero Academia"
           },
-          "alt": "Woman"
+          "alt": "My Hero Academia"
+        },
+        {
+          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11645/929dfbb0-50e1-4d79-b8dc-a12f857368a0",
+          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11645/8cb716dc-c3e0-4cd5-8a5a-9a560dab30f2",
+          "action": {
+            "href": "#",
+            "label": "Buy Now!",
+            "title": "Death Note",
+            "subTitle": "When Light Yagami finds a notebook giving him power over death, will he use it for good—or evil?"
+          },
+          "alt": "Death Note"
+        },
+        {
+          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11645/3a5883e1-20d9-44bc-b148-07a278272dbf",
+          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11645/450ddaf7-3aa2-4adb-b3d6-a2490393fecb",
+          "alt": "Hunter x Hunter",
+          "action": {
+            "href": "#",
+            "title": "Hunter x Hunter",
+            "subTitle": "Plucky Gon’s quest to find his dad leads him into a whole world of crazy adventure.",
+            "label": "Buy Now!"
+          }
         }
       ],
-      "preload": true
+      "preload": true,
+      "interval": 5
     },
     {
       "__resolveType": "site/sections/Product/ProductShelf.tsx",
@@ -66,38 +98,7 @@
       "__resolveType": "site/sections/Category/CategoryGrid.tsx",
       "title": "Departments",
       "cta": "/all",
-      "items": [
-        {
-          "label": "Men",
-          "href": "/",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/38c33c9f-14a1-4048-973b-dc2a75caf1fa"
-        },
-        {
-          "href": "/",
-          "label": "Women",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/f6bea2b8-b248-4b42-9246-6e924a0acc8b"
-        },
-        {
-          "href": "/",
-          "label": "Kids",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/1b0ecaa2-9a13-4de2-bf17-5196948ed128"
-        },
-        {
-          "href": "/",
-          "label": "Hats",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/36e97897-5cf7-4271-a71c-683dc732ef8c"
-        },
-        {
-          "href": "/",
-          "label": "Accessories",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/92129655-fe40-4b29-8fdb-e7f71e67a5d1"
-        },
-        {
-          "href": "/",
-          "label": "Home & Living",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/d0433c00-cd26-4638-b519-0cb64b9f82e8"
-        }
-      ]
+      "items": []
     },
     {
       "__resolveType": "site/sections/Images/Banner.tsx",
