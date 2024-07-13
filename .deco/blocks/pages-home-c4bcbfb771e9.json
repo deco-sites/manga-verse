@@ -8,8 +8,8 @@
       "__resolveType": "site/sections/Images/Carousel.tsx",
       "images": [
         {
-          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11645/c9444096-34b1-4eba-9a37-1f6be5d6a69d",
-          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11645/11505488-0024-440f-97ac-afcece302633",
+          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11645/8f7462ea-3b92-4616-9462-d23f1736674d",
+          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11645/ba7ed52a-4b0b-4c9a-a59d-46f00b1922a8",
           "alt": "Berserk",
           "action": {
             "title": "Manga Verse",
@@ -19,14 +19,14 @@
           }
         },
         {
-          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11645/e8940256-d6f9-466d-bed5-9973e6a155e0",
-          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11645/d3ec1c7f-be34-4abd-8f2b-e04b6d6c6957",
-          "alt": "Bleach",
+          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11645/b9902a2f-894e-42c4-8dcd-397fbade5ba7",
+          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11645/a9a1440b-5e2c-4a74-a3cd-148397e6a6a6",
+          "alt": "One Piece",
           "action": {
-            "title": "Discover New Books",
+            "title": "Discover New Authors",
             "href": "#",
             "label": "Shop the store",
-            "subTitle": "Read what you've never read before!"
+            "subTitle": "Discover new Mangas to read"
           }
         }
       ],
