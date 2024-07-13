@@ -8,37 +8,26 @@
       "__resolveType": "site/sections/Images/Carousel.tsx",
       "images": [
         {
-          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/5b022a01-ba88-46fe-86ae-93ae644605b7",
-          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/88b2ad41-be6d-4640-b9fe-c58942362f0f",
-          "alt": "Shoes",
+          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11645/c9444096-34b1-4eba-9a37-1f6be5d6a69d",
+          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11645/11505488-0024-440f-97ac-afcece302633",
+          "alt": "Berserk",
           "action": {
-            "title": "Skate into Adventure",
-            "subTitle": "Top-quality roller skate shoes for all levels. ",
+            "title": "Manga Verse",
+            "subTitle": "The place to buy and purchase",
             "href": "#",
-            "label": "Grab Yours Now!"
+            "label": "Grab Your next Manga!"
           }
         },
         {
-          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/d26304f4-355b-48d0-b649-e24b9cbf0ded",
-          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/47a4d85a-1150-4e5d-abc2-5c642445ff12",
-          "alt": "Men",
+          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11645/e8940256-d6f9-466d-bed5-9973e6a155e0",
+          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11645/d3ec1c7f-be34-4abd-8f2b-e04b6d6c6957",
+          "alt": "Bleach",
           "action": {
-            "title": "Discover Fresh Looks",
-            "subTitle": "Modern men's clothing and accessories.",
+            "title": "Discover New Books",
             "href": "#",
-            "label": "Shop the Collection"
+            "label": "Shop the store",
+            "subTitle": "Read what you've never read before!"
           }
-        },
-        {
-          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/1226ef79-c7e0-403c-b716-b6b9af3f2936",
-          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/f7ea4cbe-7498-4e64-9205-c741753edfcc",
-          "action": {
-            "label": "Shop Now!",
-            "href": "#",
-            "title": "Embrace New Trends",
-            "subTitle": "Stylish clothes and accessories."
-          },
-          "alt": "Woman"
         }
       ],
       "preload": true
