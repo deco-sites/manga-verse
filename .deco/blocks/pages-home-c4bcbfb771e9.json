@@ -28,6 +28,7 @@
       "__resolveType": "site/sections/Images/Carousel.tsx",
       "images": [
         {
+
           "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11645/154e7b4f-4810-4106-986a-cf0c94b8a529",
           "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11645/78e647bd-9198-41a9-91c4-4a662812a215",
           "alt": "Boruto",
@@ -69,6 +70,27 @@
             "title": "Hunter x Hunter",
             "subTitle": "Plucky Gon’s quest to find his dad leads him into a whole world of crazy adventure.",
             "label": "Buy Now!"
+
+          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11645/8f7462ea-3b92-4616-9462-d23f1736674d",
+          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11645/ba7ed52a-4b0b-4c9a-a59d-46f00b1922a8",
+          "alt": "Berserk",
+          "action": {
+            "title": "Manga Verse",
+            "subTitle": "The place to buy and purchase",
+            "href": "#",
+            "label": "Grab Your next Manga!"
+          }
+        },
+        {
+          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11645/b9902a2f-894e-42c4-8dcd-397fbade5ba7",
+          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11645/a9a1440b-5e2c-4a74-a3cd-148397e6a6a6",
+          "alt": "One Piece",
+          "action": {
+            "title": "Discover New Authors",
+            "href": "#",
+            "label": "Shop the store",
+            "subTitle": "Discover new Mangas to read"
+
           }
         }
       ],

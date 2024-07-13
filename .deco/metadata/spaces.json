@@ -1756,9 +1756,9 @@
                     "componentState": {
                       "id": "%2F.deco%2Fblocks%2Fpages-home-c4bcbfb771e9.json::Properties::list::Properties::%7B%7D"
                     },
-                    "width": 30,
                     "isClosable": true,
-                    "reorderEnabled": true
+                    "reorderEnabled": true,
+                    "width": 30
                   }
                 ]
               },
@@ -1778,9 +1778,9 @@
                     "componentState": {
                       "id": "%2F.deco%2Fblocks%2Fpages-home-c4bcbfb771e9.json::Preview::visibility::Preview::%7B%7D"
                     },
-                    "width": 70,
                     "isClosable": true,
-                    "reorderEnabled": true
+                    "reorderEnabled": true,
+                    "width": 70
                   }
                 ]
               }
@@ -1800,11 +1800,12 @@
           "accepts": "function",
           "render": "function",
           "viewId": "Properties",
-          "width": 30,
           "id": "%2F.deco%2Fblocks%2Fpages-home-c4bcbfb771e9.json::Properties::list::Properties::%7B%7D",
           "state": {
-            "__signal": null
-          }
+            "__signal": null,
+            "value": null
+          },
+          "width": 30
         },
         "%2F.deco%2Fblocks%2Fpages-home-c4bcbfb771e9.json::Preview::visibility::Preview::%7B%7D": {
           "name": "Preview",
@@ -1812,11 +1813,11 @@
           "accepts": "function",
           "render": "function",
           "viewId": "Preview",
-          "width": 70,
           "id": "%2F.deco%2Fblocks%2Fpages-home-c4bcbfb771e9.json::Preview::visibility::Preview::%7B%7D",
           "state": {
             "__signal": null
-          }
+          },
+          "width": 70
         }
       }
     },
@@ -2256,7 +2257,10 @@
           "width": 30,
           "id": "%2F.deco%2Fblocks%2Fpages-Landing%252520Page%252520(Woman)-585575.json::Properties::list::Properties::%7B%7D",
           "state": {
-            "__signal": null
+
+            "__signal": null,
+            "value": null
+
           }
         },
         "%2F.deco%2Fblocks%2Fpages-Landing%252520Page%252520(Woman)-585575.json::Preview::visibility::Preview::%7B%7D": {
@@ -2378,7 +2382,10 @@
           "width": 30,
           "id": "%2F.deco%2Fblocks%2Fpages-Sign%252520Up-212353.json::Properties::list::Properties::%7B%7D",
           "state": {
-            "__signal": null
+
+            "__signal": null,
+            "value": null
+
           }
         },
         "%2F.deco%2Fblocks%2Fpages-Sign%252520Up-212353.json::Preview::visibility::Preview::%7B%7D": {
@@ -2502,6 +2509,7 @@
           "state": {
             "__signal": null,
             "value": null
+
           }
         },
         "%2F.deco%2Fblocks%2Fpages-Log%252520In-996561.json::Preview::visibility::Preview::%7B%7D": {
@@ -3022,6 +3030,7 @@
           "id": "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FLogin.tsx.json::Code::code::Code::%7B%7D",
           "state": {
             "__signal": null
+
           }
         }
       }
@@ -3188,7 +3197,8 @@
             "content": [
               {
                 "type": "stack",
-                "width": 30,
+
+                "width": 50,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -3210,7 +3220,9 @@
               },
               {
                 "type": "stack",
-                "width": 70,
+
+                "width": 50,
+
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -3499,6 +3511,7 @@
           }
         }
       }
+
     },
     {
       "id": "/.deco/blocks/Preview%20%2Fsections%2FProduct%2FProductShelf.tsx.json",
@@ -3699,6 +3712,7 @@
           }
         }
       }
+
     }
   ]
 }

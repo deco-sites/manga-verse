@@ -7,10 +7,12 @@
     "--animation-btn": "0.25s"
   },
   "mainColors": {
-    "base-100": "#F2E9E4",
-    "primary": "#22150D",
-    "secondary": "#29190F",
-    "tertiary": "#9A8C98",
+
+    "base-100": "#000000",
+    "primary": "#171717",
+    "secondary": "#e60a0a",
+    "tertiary": "#000000",
+
     "neutral": "#333333",
     "success": "#008060",
     "warning": "#ffc453",
